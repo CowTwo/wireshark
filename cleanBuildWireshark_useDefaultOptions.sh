@@ -1,3 +1,4 @@
+echo "Please remember to execute this script inside myUtility container"
 cwd=$(pwd)
 cd wireshark-3.2.4
 
